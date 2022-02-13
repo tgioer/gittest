@@ -36,6 +36,14 @@ body:
     attributes:
       label: 平台/设备/浏览器
       description: 在哪些平台/设备/浏览器上能重现这个问题？
+  - type: input
+    id: version
+    attributes:
+      label: Taroify 版本
+      description: 你正在使用的 Taroify 版本是多少？（请填写 node_modules/taroify/core/package.json 里实际安装的版本）
+      placeholder: 比如 1.0.0
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
