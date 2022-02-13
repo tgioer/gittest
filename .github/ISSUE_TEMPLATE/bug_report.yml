@@ -83,6 +83,6 @@ body:
         - 'Yes'
         - 'No'
   - type: textarea
-    id: possible_fix
+    id: fix_content
     attributes:
-      label: 如何
+      label: 请填写修复这个问题的解决方案
