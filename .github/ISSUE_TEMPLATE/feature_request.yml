@@ -9,15 +9,15 @@ body:
   - type: textarea
     id: example
     attributes:
-      label: Usage example, including component/hook API
+      label: 使用示例，包括组件/Hooks
   - type: textarea
     id: implementation
     attributes:
-      label: Possible implementation – describe how the feature can be implemented
+      label: 解决方案 - 描述如何实现该功能
   - type: dropdown
     id: participate
     attributes:
-      label: Do you want to contribute this feature and create a pull request
+      label: 你想贡献这个功能并创建一个 PR 吗
       options:
         - 'Yes'
         - 'No'
