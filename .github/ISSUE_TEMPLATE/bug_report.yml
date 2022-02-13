@@ -34,8 +34,8 @@ body:
   - type: input
     id: user_agent
     attributes:
-      label: If possible, please include a link to a codesandbox with the reproduced problem
-      description: 在哪些设备/浏览器上能重现这个问题？
+      label: 平台/设备/浏览器
+      description: 在哪些平台/设备/浏览器上能重现这个问题？
   - type: textarea
     id: description
     attributes:
