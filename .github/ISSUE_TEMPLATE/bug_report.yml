@@ -10,7 +10,8 @@ body:
   - type: dropdown
     id: package
     attributes:
-      label: 哪个包有问题
+      label: 问题出在哪个包
+      multiple: true
       options:
         - '@taroify/core'
         - '@taroify/icons'
@@ -21,7 +22,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: 相关平台
+      label: 问题出在哪个平台/设备/浏览器
       multiple: true
       options:
         - 'H5'
