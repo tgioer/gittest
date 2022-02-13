@@ -14,7 +14,8 @@ body:
   - type: textarea
     id: implementation
     attributes:
-      label: 解决方案 - 描述如何实现该功能
+      label: 解决方案
+      description: 描述一下这个新功能的方案，并提供一些代码示例
   - type: dropdown
     id: participate
     attributes:
