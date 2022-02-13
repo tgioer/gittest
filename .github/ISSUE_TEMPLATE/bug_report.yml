@@ -1,5 +1,5 @@
-name: Report an issue with @mantine/ scoped package
-description: Tell us if something is not working as expected
+name: 创建一个 Taroify 的 Issue
+description: 如果有什么事情不像预期的那样工作，请告诉我们
 labels: 'bug'
 body:
   - type: markdown
