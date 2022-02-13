@@ -39,8 +39,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: Taroify 版本
-      description: 你正在使用的 Taroify 版本是多少？（请填写 node_modules/taroify/core/package.json 里实际安装的版本）
+      label: 你正在使用的 Taroify 版本是多少？
+      description: 请填写 node_modules/taroify/core/package.json 里实际安装的版本
       placeholder: 比如 1.0.0
     validations:
       required: true
