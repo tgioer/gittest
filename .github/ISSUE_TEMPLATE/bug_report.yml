@@ -57,7 +57,7 @@ body:
   - type: dropdown
     id: participate
     attributes:
-      label: 您是否愿意参与修复这个问题，并创建一个拉请求与修复
+      label: 您是否愿意参与修复这个问题，并创建一个 PR
       options:
         - 'Yes'
         - 'No'
