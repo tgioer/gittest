@@ -45,23 +45,23 @@ body:
   - type: input
     id: link
     attributes:
-      label: If possible, please include a link to a codesandbox with the reproduced problem
+      label: 如果可能的话，请包含一个代码框的链接与复制的问题
       description: Codesandbox template – https://codesandbox.io/s/mantine-template-9ze89
   - type: dropdown
     id: fix
     attributes:
-      label: Do you know how to fix the issue
+      label: 你知道如何解决这个问题吗
       options:
         - 'Yes'
         - 'No'
   - type: dropdown
     id: participate
     attributes:
-      label: Are you willing to participate in fixing this issue and create a pull request with the fix
+      label: 您是否愿意参与修复这个问题，并创建一个拉请求与修复
       options:
         - 'Yes'
         - 'No'
   - type: textarea
-    id: possibleFix
+    id: possible_fix
     attributes:
       label: Possible fix
