@@ -1,4 +1,4 @@
-name: 报告一个新 Issue
+name: Report an issue
 description: 如果有什么事情不像预期的那样工作，请告诉我们
 title: '[Bug Report] '
 labels: 'bug: need confirm'
