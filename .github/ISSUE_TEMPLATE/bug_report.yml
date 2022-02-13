@@ -40,6 +40,7 @@ body:
     id: description
     attributes:
       label: 描述一下您遇到的问题
+      placeholder: 比如：弹窗无法展示、日历组件报错
     validations:
       required: true
   - type: input
