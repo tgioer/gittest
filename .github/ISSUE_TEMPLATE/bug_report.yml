@@ -86,4 +86,4 @@ body:
   - type: textarea
     id: fix_content
     attributes:
-      label: 请填写修复这个问题的解决方案
+      label: 修复这个问题的解决方案
