@@ -35,12 +35,12 @@ body:
     id: user_agent
     attributes:
       label: 平台/设备/浏览器
-      description: 在哪些平台/设备/浏览器上能重现这个问题？
+      description: 在哪些平台/设备/浏览器上能重现这个问题
       placeholder: 如果有必要，可以填写更详细的信息
   - type: input
     id: version
     attributes:
-      label: 你正在使用的 Taroify 版本是多少？
+      label: 你正在使用的 Taroify 版本是多少
       description: 请填写 node_modules/taroify/core/package.json 里实际安装的版本
       placeholder: 比如 1.0.0
     validations:
