@@ -1,6 +1,6 @@
 name: 创建一个 Taroify 的 Issue
-title: '[Bug Report] '
 description: 如果有什么事情不像预期的那样工作，请告诉我们
+title: '[Bug Report] '
 labels: 'bug: need confirm'
 body:
   - type: markdown
