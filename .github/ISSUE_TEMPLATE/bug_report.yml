@@ -10,16 +10,12 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: What package has an issue
+      label: 哪个包有问题？
       options:
-        - '@mantine/core'
-        - '@mantine/dates'
-        - '@mantine/hooks'
-        - '@mantine/notifications'
-        - '@mantine/rte'
-        - '@mantine/prism'
-        - '@mantine/modals'
-        - '@mantine/dropzone'
+        - '@taroify/core'
+        - '@taroify/icons'
+        - '@taroify/hooks'
+        - '@taroify/commerce'
     validations:
       required: true
   - type: textarea
