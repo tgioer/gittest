@@ -31,6 +31,11 @@ body:
         - '百度小程序'
     validations:
       required: true
+  - type: input
+    id: user_agent
+    attributes:
+      label: If possible, please include a link to a codesandbox with the reproduced problem
+      description: 在哪些设备/浏览器上能重现这个问题？
   - type: textarea
     id: description
     attributes:
