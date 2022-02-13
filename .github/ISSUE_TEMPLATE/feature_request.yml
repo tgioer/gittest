@@ -10,6 +10,7 @@ body:
     id: example
     attributes:
       label: 使用示例，包括组件或 Hooks
+      description: 请尽可能详细地说明这个功能的使用场景
   - type: textarea
     id: implementation
     attributes:
