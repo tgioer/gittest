@@ -36,6 +36,7 @@ body:
     attributes:
       label: 平台/设备/浏览器
       description: 在哪些平台/设备/浏览器上能重现这个问题？
+      placeholder: 如果有必要，可以填写更详细的信息
   - type: input
     id: version
     attributes:
