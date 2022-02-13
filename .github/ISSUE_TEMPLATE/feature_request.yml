@@ -5,7 +5,7 @@ labels: 'feature'
 body:
   - type: markdown
     attributes:
-      value: '## Thanks for reaching out!'
+      value: '## 感谢您伸出援手！'
   - type: textarea
     id: example
     attributes:
